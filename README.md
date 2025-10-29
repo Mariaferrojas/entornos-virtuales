@@ -1,4 +1,4 @@
-#  Entornos Virtuales con 
+#  Entornos Virtuales 
 
 ##  Versión de Python utilizada
 Python **3.13**
@@ -84,6 +84,7 @@ entornos-virtuales/
 ├── README.md
 └── requirements.txt
 
+----
 ## Enlace al repositorio público de GitHub
 
  https://github.com/Mariaferrojas/entornos-virtuales
