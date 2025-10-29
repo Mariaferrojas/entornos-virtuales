@@ -58,11 +58,12 @@ Se ejecutaron los scripts y notebooks correspondientes a cada proyecto dentro de
 jupyter==<versión_instalada>
 entornos-virtuales/
 │── imagenes/
-│   ├── creacion_entorno.png
-│   ├── activacion_entorno.png
-│   ├── instalacion_paquetes.png
-│   ├── ejecucion_notebook.png
-│   └── estructura_proyecto.png
+│   ├── algoritmoa.png
+│   ├── algoritmob1.png
+│   ├── algoritmob2.png
+    ├── entorno1.png
+│   ├── jupyter.png
+│   └── pandas.png
 │
 ├── proyecto_A/
 │   ├── venv_1/               
