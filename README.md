@@ -50,7 +50,8 @@ Se ejecutaron los scripts y notebooks correspondientes a cada proyecto dentro de
 
 ---
 
-###  5. Contenido de los archivos `requirements.txt`
+
+
 
 #### Proyecto A — `requirements.txt`
 ```text
